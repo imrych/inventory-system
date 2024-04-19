@@ -10,7 +10,7 @@
 
 <body>
 <div class="top-nav">
-<h1>Dashboard</h1>
+    <h1>Dashboard</h1>
         <div class=user_and_date>
             <div class="dropdown">
                 <div class="username">Avril Abelarde</div>
@@ -21,8 +21,7 @@
             </div>
             <div class="date">April 14, 2024</div>
         </div>
-    </div>
-
+        
     <div class="dashboard_content">
         <div class="boxes">
 
@@ -30,10 +29,11 @@
                 <i class="fas fa-user"></i>
                 <div class="first_text_total">No. of users</div>
                 <div class="text_total">
-                    100 Users</div>
+                    100 Users
+                </div>
             </div>
-
+        </div>
+    </div>
 </div>
-
 </body>
 </html>
