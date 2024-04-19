@@ -21,32 +21,32 @@
                 </a>
             </li>
             <li>
-                <a href="#"><i class="fa-solid fa-user-plus"></i>
+                <a href="user's.html"><i class="fa-solid fa-user-plus"></i>
                     <span>User's Management</span>
                 </a>
             </li>
             <li>
-                <a href="#"><i class="fas fa-ship"></i>
+                <a href="supplier.html"><i class="fas fa-ship"></i>
                     <span>Supplier</span>
                 </a>
             </li>
             <li>
-                <a href="#"><i class="fas fa-truck"></i>
+                <a href="order.html"><i class="fas fa-truck"></i>
                     <span>Order</span>
                 </a>
             </li>
             <li>
-                <a href="#"><i class="fas fa-users"></i>
+                <a href="customers.html"><i class="fas fa-users"></i>
                     <span>Customers</span>
                 </a>
             </li>
             <li>
-                <a href="#"><i class="fas fa-box"></i>
+                <a href="products.html"><i class="fas fa-box"></i>
                     <span>Products</span>
                 </a>
             </li>
             <li>
-                <a href="#"><i class="fas fa-chart-line"></i>
+                <a href="sales.html"><i class="fas fa-chart-line"></i>
                     <span>Sales</span>
                 </a>
             </li>
