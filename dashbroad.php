@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="includes/main.css"><link rel="stylesheet" href="includes/main.css">
     <title>Dashboard</title>
-
 <body>
 <div class="top-nav">
     <h1>Dashboard</h1>
@@ -21,7 +20,7 @@
             </div>
             <div class="date">April 14, 2024</div>
         </div>
-        
+
     <div class="dashboard_content">
         <div class="boxes">
 
