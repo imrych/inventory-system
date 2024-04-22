@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,53 +11,61 @@
     <link rel="stylesheet" href="includes/main.css">
     <title>Home</title>
 </head>
+
 <body>
-<div class="navbar">
-    <div class="logo">Ping-Ping's Fruit Dealer</div>
-    <div class="sidebar">
-        <ul>
-            <li>
-                <a href="dashbroad.php"><i class="fa-solid fa-house"></i>
-                    <span>Dashboard</span>
-                </a>
-            </li>
-            <li>
-                <a href="user's.html"><i class="fa-solid fa-user-plus"></i>
-                    <span>User's Management</span>
-                </a>
-            </li>
-            <li>
-                <a href="supplier.html"><i class="fas fa-ship"></i>
-                    <span>Supplier</span>
-                </a>
-            </li>
-            <li>
-                <a href="order.html"><i class="fas fa-truck"></i>
-                    <span>Order</span>
-                </a>
-            </li>
-            <li>
-                <a href="customers.html"><i class="fas fa-users"></i>
-                    <span>Customers</span>
-                </a>
-            </li>
-            <li>
-                <a href="products.html"><i class="fas fa-box"></i>
-                    <span>Products</span>
-                </a>
-            </li>
-            <li>
-                <a href="sales.html"><i class="fas fa-chart-line"></i>
-                    <span>Sales</span>
-                </a>
-            </li>
-            <li>
-                <a href="logout.php"><i class="fas fa-sign-out"></i>
-                    <span>Log-out</span>
-                </a>
-            </li>
-        </ul>
-    </div>
+    <div class="navbar">
+        <div class="logo">Ping-Ping's Fruit Dealer</div>
+        <div class="sidebar">
+            <ul>
+                <li>
+                    <a href="dashbroad.php"><i class="fa-solid fa-house"></i>
+                        Dashboard
+                    </a>
+                </li>
+                <li>
+                    <a class="user-container">
+                        <i class="fa-solid fa-user-plus"></i>
+                        User's Management</a>
+                    <div class="dropdown-container">
+                        <a class="item" href="managegroup.php">Manage Group</a>
+                        <a class="item" href="manageuser.php">Manage Users</a>
 </div>
+                    </li>
+                <li>
+                    <a href="#"><i class="fas fa-ship"></i>
+                        Supplier
+                    </a>
+                </li>
+                <li>
+                    <a href="#"><i class="fas fa-truck"></i>
+                        Order
+                    </a>
+                </li>
+                <li>
+                    <a href="#"><i class="fas fa-users"></i>
+                        Customers
+                    </a>
+                </li>
+                <li>
+                    <a href="#"><i class="fas fa-box"></i>
+                        Products
+                    </a>
+                </li>
+                <li>
+                    <a href="#"><i class="fas fa-chart-line"></i>
+                        <span>Sales</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="logout.php"><i class="fas fa-sign-out"></i>
+                        <span>Log-out</span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+
 </body>
+
 </html>
